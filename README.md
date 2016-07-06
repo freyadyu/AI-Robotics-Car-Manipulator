@@ -1,1 +1,2 @@
-# ChibiOS-STM32f3-Practice
+# AI-Robotics Car & Manipulator
+This repo contains the autonomous car and manipulator projects
